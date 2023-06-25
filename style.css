@@ -136,4 +136,8 @@ body {
         max-width: 8vh;
         max-height: 8vh;
     }
+
+    .login, .sign-up {
+        width: 8vh;
+    }
 }
