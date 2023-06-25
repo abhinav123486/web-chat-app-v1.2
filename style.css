@@ -130,3 +130,10 @@ body {
     right: 10px;
     cursor: pointer;
 }
+
+@media screen and (width < height) {
+    .register input {
+        max-width: 8vh;
+        max-height: 8vh;
+    }
+}
