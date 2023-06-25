@@ -131,7 +131,7 @@ body {
     cursor: pointer;
 }
 
-@media screen and (width < height) {
+@media screen and (orientation:portrait) {
     .register input {
         max-width: 8vh;
         max-height: 8vh;
